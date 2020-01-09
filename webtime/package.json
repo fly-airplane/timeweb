@@ -1,0 +1,42 @@
+{
+  "_from": "webtime",
+  "_id": "webtime@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-TEbrrInDiMSxgRdjMZbXGo7f6DM=",
+  "_location": "/webtime",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "webtime",
+    "name": "webtime",
+    "escapedName": "webtime",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/webtime/download/webtime-2.0.0.tgz",
+  "_shasum": "4c46ebac89c388c4b18117633196d71a8edfe833",
+  "_spec": "webtime",
+  "_where": "E:\\第二阶段\\week7练习\\day1\\a",
+  "author": {
+    "name": "fly_airplance"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "日期",
+  "keywords": [
+    "dateformate"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "webtime",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.0"
+}
